@@ -11,7 +11,5 @@
     - JAVA
     - HTML, CSS, JS (Wep language)
 
-## 📫 How to reach me ...
-   ![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza(https://www.facebook.com/zzsza)) <- My Facefook!
-   
+## 📫 How to reach me ...  
    https://wlalsgur1226.tistory.com/ <- My Blog!

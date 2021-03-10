@@ -6,7 +6,7 @@
     
 ## 🌱 I’m currently learning ...
     - C
-    - JAVA
+    - JAVA, Kotlin
     - HTML, CSS, JS (Wep language)
 
 ## 📫 How to reach me ...  

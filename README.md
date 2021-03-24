@@ -8,6 +8,3 @@
     - C
     - JAVA, Kotlin
     - HTML, CSS, JS (Wep language)
-
-## 📫 How to reach me ...  
-   https://wlalsgur1226.tistory.com/ <- My Blog!

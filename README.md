@@ -16,4 +16,4 @@
 </center>
 
 ![MinHyukJi1226's github stats](https://github-readme-stats.vercel.app/api?username=MinHyukJi1226&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyukJi1226&layout=compact&theme=dark)

@@ -27,7 +27,7 @@
 <center> <h2>📕 I'm learning... 📕</h2> </center>
 
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutter-original-icon.svg" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
 </div>
 
 <br>

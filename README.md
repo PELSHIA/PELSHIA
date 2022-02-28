@@ -29,7 +29,6 @@
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
- <a href="https://opgc.me/#/users/MinHyukJi1226" target="_blank"><img src="https://api.opgc.me/githubs/users/MinHyukJi1226/tag/?border=normal" /></a>
 </div>
 
 <br>
@@ -58,5 +57,6 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MinHyukJi1226&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyukJi1226&hide_border=true&layout=compact&theme=dark" align="center" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyukJi1226&hide_border=true&layout=compact&theme=dark" align="center" />
+<a href="https://opgc.me/#/users/MinHyukJi1226" target="_blank"><img src="https://api.opgc.me/githubs/users/MinHyukJi1226/tag/?border=normal" /></a>
 </div>  

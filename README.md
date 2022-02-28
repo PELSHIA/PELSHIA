@@ -29,6 +29,7 @@
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+ <a href="https://opgc.me/#/users/MinHyukJi1226" target="_blank"><img src="https://api.opgc.me/githubs/users/MinHyukJi1226/tag/?border=normal" /></a>
 </div>
 
 <br>

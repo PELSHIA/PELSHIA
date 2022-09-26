@@ -41,7 +41,7 @@
 <a href="https://github.com/MinHyukJi1226" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/minhyuk_ji04" target="_blank">
+<a href="https://instagram.com/mhyuk._.04" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/wlalsgur1226" target="_blank">

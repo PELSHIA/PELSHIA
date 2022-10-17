@@ -1,3 +1,4 @@
+
 <center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=MinHyukJi1226&fontSize=90&animation=fadeIn" />
 </center>
@@ -56,5 +57,5 @@
 <br>
 
 <div align="center">
-| <img src="https://github-readme-stats.vercel.app/api?username=MinHyukJi1226&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyukJi1226&hide_border=true&layout=compact&theme=dark" align="center" />|
+<img src="https://github-readme-stats.vercel.app/api?username=MinHyukJi1226&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" width="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyukJi1226&hide_border=true&layout=compact&theme=dark" align="center" width="200" />
 </div>  

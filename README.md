@@ -30,6 +30,7 @@
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
+<img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png" alt="Swift" height="50" />
 </div>
 
 <br>

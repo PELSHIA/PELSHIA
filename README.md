@@ -1,6 +1,6 @@
 
 <center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=MinHyukJi1226&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=PELSHIA&fontSize=90&animation=fadeIn" />
 </center>
 
 <br>

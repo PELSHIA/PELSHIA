@@ -1,6 +1,6 @@
 
 <center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=PELSHIA&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=mhyuk04&fontSize=90&animation=fadeIn" />
 </center>
 
 <br>
@@ -40,5 +40,5 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PELSHIA&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PELSHIA&hide_border=true&layout=compact&theme=dark" align="center" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=mhyuk04&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhyuk04&hide_border=true&layout=compact&theme=dark" align="center" width="400" />
 </div>  

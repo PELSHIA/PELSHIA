@@ -1,44 +1,24 @@
 
 <center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=mhyuk04&fontSize=90&animation=fadeIn" />
+<h3> 안녕하세요👋 저는 지민혁 입니다 :)<h3>
 </center>
 
-<br>
+<center> <h2> 사용할 수 있는 기술들이에요 🔨 </h2> </center>
 
-<center> <h2>🔨 My Skill 🔨</h2> </center>
-
-<br>
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />     
-
-</div>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <br>
 
-<br>
+<center> <h2> 관심있거나 공부중인 기술들이에요 📕 </h2> </center>
 
-<center> <h2>📕 I'm learning... 📕</h2> </center>
-
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
-<img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png" alt="Swift" height="50" />
-</div>
-
-<br>
-
-<center> <h2> ✨ Github Stats ✨ </h2> <center>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mhyuk04&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhyuk04&hide_border=true&layout=compact&theme=dark" align="center" width="400" />
-</div>  
+![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![ios](https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white)
+![swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)

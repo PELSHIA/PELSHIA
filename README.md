@@ -1,8 +1,3 @@
-
-<center>
-<h3> 안녕하세요👋 저는 지민혁 입니다 :)<h3>
-</center>
-
 <center> <h2> 사용할 수 있는 기술들이에요 🔨 </h2> </center>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
